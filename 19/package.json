@@ -1,0 +1,23 @@
+{
+  "name": "19-day",
+  "version": "1.0.0",
+  "description": "fun webcam",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katofuka/js-30.git"
+  },
+  "author": "katofuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katofuka/js-30/issues"
+  },
+  "homepage": "https://github.com/Katofuka/js-30#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  }
+}
