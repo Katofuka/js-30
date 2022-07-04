@@ -1,2 +1,10 @@
-**/node_modules/*
-**/package-lock.json
+# node_modules/
+19/node_modules/
+20/node_modules/
+21/node_modules/
+
+
+# # package-lock.json
+19/package-lock.json
+20/package-lock.json
+21/package-lock.json
